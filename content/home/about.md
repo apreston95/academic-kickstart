@@ -24,7 +24,7 @@ weight = 5
 [[education.courses]]
   course = "BSc in Economics"
   institution = "University of Exeter"
-  year = 2009
+  year = 2017
 
 
  

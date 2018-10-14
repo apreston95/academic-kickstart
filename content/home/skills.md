@@ -30,7 +30,7 @@ weight = 7
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Stata"
   description = "100%"  
   
 [[feature]]

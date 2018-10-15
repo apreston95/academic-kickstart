@@ -1,20 +1,20 @@
-+++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = true
-date = 2016-04-20T00:00:00
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
++++
+date = "2016-04-20T00:00:00"
+draft = false
+title = "teaching"
 subtitle = ""
-
-# Order that this section will appear in.
-weight = 60
-
+section_id = 10
+weight = 10
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Below is a list of all courses that I have tutoring experince in
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+* **Spring 2018**
+  - Basic Macroeconomics (Diploma Level)
+  - Time Series Econometrics (MSc)
+* **Winter 2018**
+  - Statistics for International Relations (MSc)
+  - Advanced Microeconomics (UG)
+  - Advanced Macroeconomics (UG)
+

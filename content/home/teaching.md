@@ -8,7 +8,7 @@ section_id = 10
 weight = 10
 +++
 
-Below is a list of all courses that I have tutoring experince in
+Below is a list of all courses that I have tutoring experience in
 
 * **Spring 2018**
   - Basic Macroeconomics (Diploma Level)

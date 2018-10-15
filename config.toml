@@ -1,6 +1,6 @@
 baseurl = ""
 title = "Andrew Preston"
-copyright = "&copy; 2016 Andrew Preston"
+copyright = "&copy; 2018 Andrew Preston"
 languageCode = "en-us"
 theme = "academic"
 canonifyurl = true
